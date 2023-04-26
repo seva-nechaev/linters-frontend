@@ -3,7 +3,7 @@
 1. Eslint for code best practices
 1. Prettier for formatting
 1. Cspell for detecting typos
-1. Jscpd for dode duplication detection
+1. Jscpd for duplication detection
 
 
 ## Linters and code analysis tools
