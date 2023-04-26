@@ -1,0 +1,15 @@
+{
+    "threshold": 10,
+    "reporters": [ "consoleFull", "markdown","html"],
+    "output": "reports",
+    "mode": "mild",
+    "min-lines": 10,
+    "minTokens": 90,
+    "ignore": [
+      "**/node_modules/**",
+      "**/.github/**",
+      "**/assets/**",
+      "**/.idea/**"
+    ]
+  }
+  

@@ -1,0 +1,15 @@
+{
+    "version": "0.2",
+    "language": "en",
+    "files": [
+      "src/**", "**.md"
+    ],
+    "ignorePaths": [
+      "**/test/**",
+      "**/assets/**"
+    ],
+    "words": [
+      "Pinia",
+      "vuejs"
+  ]
+  }
